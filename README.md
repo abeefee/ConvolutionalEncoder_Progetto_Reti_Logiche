@@ -1,4 +1,4 @@
-# 🔍 Convolutional Encoder - RL Project 2021/22
+# Convolutional Encoder - RL Project 2021/22
 
 *Puoi anche leggerlo in [Italiano](README.it.md)*
 

@@ -1,8 +1,8 @@
-# 🔍 Codificatore Convoluzionale - Progetto RL 2021/22
+# Codificatore Convoluzionale - Progetto RL 2021/22
 
 *You can read this also in [English](README.md)*
 
-> **Academic Note:** Questo progetto è stato sviluppato come Prova Finale per il corso di *Reti Logiche* presso il Politecnico di Milano (Anno Accademico 2021/22), da Alberto Biffi e Giovanni Mattia Codemo, ottenendo una valutazione finale di **29/30**.
+> **Nota Accademica:** Questo progetto è stato sviluppato come Prova Finale per il corso di *Reti Logiche* presso il Politecnico di Milano (Anno Accademico 2021/22), da Alberto Biffi e Giovanni Mattia Codemo, ottenendo una valutazione finale di **29/30**.
 
 ### Descrizione del progetto
 Il progetto consiste nella progettazione e descrizione in VHDL (sintetizzata tramite Xilinx Vivado Webpack) di un componente hardware che si interfaccia con una memoria RAM a blocchi.
